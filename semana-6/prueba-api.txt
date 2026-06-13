@@ -1,0 +1,10 @@
+{
+  "nombre": "juan",
+  "mensaje": "Hola comunidad de programadores para la paz"
+}
+respuesta del servidor
+ {
+  "estado": "Datos recibidos",
+  "nombre": "juan",
+  "mensaje": "Hola comunidad de programadores para la paz"
+}

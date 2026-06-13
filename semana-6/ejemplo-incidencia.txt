@@ -1,0 +1,11 @@
+{
+  "tipo": "DERRUMBES ",
+  "descripcion": "La comunidad reporta que por las fuertes lluvias se están generando deslizamientos "
+}
+ 
+Respuesta el server
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "DERRUMBES",
+  "descripcion": "La comunidad reporta deslizamientos..."
+}
