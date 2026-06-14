@@ -1,0 +1,22 @@
+Qué ocurre cuando ejecutas node server.js.
+
+Se enciende el server desde la terminal y ya la podemos ver en Google o en studio visual code prendido 
+
+
+Qué mensaje aparece en la terminal.
+
+node server.js
+Servidor ejecutándose en puerto 3000
+
+Qué sucede cuando visitas la ruta /estado.
+
+GET BODY : Esta es la respuesta del servidor prendido 
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+
+GET BODY :Este es la respuesta de la ruta sin  el estado 
+
+Servidor activo y funcionando
+

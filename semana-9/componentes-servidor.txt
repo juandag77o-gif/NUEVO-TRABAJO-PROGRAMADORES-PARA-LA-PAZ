@@ -1,0 +1,12 @@
+Explica brevemente qué función cumple cada uno. Cada explicación debe tener 2 o 3 líneas:
+
+Sistema operativo: Es una forma de comunicar el sistema operativo como el disco duro, memoria y procesador esto permite la interacción con el hardware del servidor y los programadas que se instalen.
+
+Node.js: Es un entorno de trabajo que permite ejecutar códigos de JavaScript directamente en el servidor, fuera del navegador web permite traducir tu código para que el sistema operativo pueda entenderlo y procesarlo directamente 
+
+Aplicación server.js: Es el archivo de código fuente principal creada por el desarrollador donde puedes configurar el servidor web ,contiene las reglas de negocios o de paginas o aplicaciones y decide responder a cada petición del usuario
+
+Puerto: Es un canal virtual y numerado dentro del servidor que se esta utilizando para el trafico de red de forma organizada. Permite que las solicitudes lleguen exactas a tu aplicación o server.js en la terminal 
+
+Logs: Son los archivos de texto donde el servidor anota automáticamente de forma cronológica todo lo que ocurre en el sistema,
+sirven como el historial de navegación en el entorno permitiendo detectar errores monitorear quien visitas y auditar la seguridad
