@@ -1,0 +1,68 @@
+RUTA POST :BODY
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Respuesta del server
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+RUTA GET :BODY 
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Respuesta del server 
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+ 
+REPORTE CREADO POR MI 
+
+RUTA POST: BODY
+{
+  "tipo": "BARRIO",
+  "descripcion": "APAGONES CONSTANTES DE LUZ"
+}
+RESPUESTA DEL SERVIDOR 
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 2,
+    "tipo": "BARRIO",
+    "descripcion": "APAGONES CONSTANTES DE LUZ"
+  }
+}
+
+
+RUTA GET: BODY 
+{
+  "tipo": "BARRIO",
+  "descripcion": "APAGONES CONSTANTES DE LUZ"
+}
+
+RESPUESTA DEL SERVIDOR
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "BARRIO",
+    "descripcion": "APAGONES CONSTANTES DE LUZ"
+  }
+}

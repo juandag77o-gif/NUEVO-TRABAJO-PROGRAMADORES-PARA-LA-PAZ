@@ -1,0 +1,41 @@
+EJEMPLO 1 
+
+GIT POST: BODY
+
+{
+"tipo": "mural comunitario",
+"descripcion": "festival de pintura para todos los jovenes"
+  
+}
+
+RESPUESTA DEL SERVIDOR 
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "mural comunitario",
+    "descripcion": "festival de pintura para todos los jovenes"
+  }
+}
+
+EJEMPLO 2
+
+GIT POST: BODY
+
+{
+"tipo": "VIAJE A PEREIRA",
+"descripcion": "FINALIZACION DEL PROGRAMA JOVENES EN PAZ"
+  
+}
+
+RESPUESTA DEL SERVIDOR 
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 2,
+    "tipo": "VIAJE A PEREIRA",
+    "descripcion": "FINALIZACION DEL PROGRAMA JOVENES EN PAZ"
+  }
+}

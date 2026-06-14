@@ -1,0 +1,11 @@
+Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
+
+La importancia de esta plataforma tecnológica radica en que permite agrupar todas las problemáticas 
+de la comunidad en un solo lugar, clasificándolas desde fallas de servicios públicos como apagones de luz, hasta 
+proyectos socioculturales como la gestión de murales comunitarios. Al estar todo digitalizado, tanto los ciudadanos como 
+los administradores pueden verificar la fuente de la información y hacer un seguimiento transparente de cada caso gracias al identificador único 
+(como el id: 1 o id: 2 que va generando automáticamente tu sistema). De esta manera, cualquier persona puede auditar el estado real de su solicitud 
+sin intermediarios. Todo esto se traduce en una gran optimización en los recursos, ya que los gestores comunitarios y las autoridades locales tienen 
+la facilidad de analizar los reportes entrantes en tiempo real, lo que les permite priorizar mejor los presupuestos y organizar al personal de apoyo 
+justo en las zonas que más lo necesitan teniendo un mayor tiempo de reacción en conflictos o desastres y obteniendo información relevante y verídica .
+
