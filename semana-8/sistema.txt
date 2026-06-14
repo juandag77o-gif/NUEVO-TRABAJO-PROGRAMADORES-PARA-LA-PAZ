@@ -1,0 +1,9 @@
+uname -a
+MINGW64_NT-10.0-26200 DESKTOP-TPB9RQ9 3.6.6-1cdd4371.x86_64 2026-01-15 22:20 UTC x86_64 Msys
+
+$ whoami
+Pc
+
+Por qué es útil conocer información del sistema cuando se administra un servidor.
+
+Porque esto permite reconocer errores hackeos o malwares también tiene un registro de cada cosa que hagas en el computador o cambios que tu no hagas todo será registrado y podrás monitorear cambios  y hacer modificaciones dando la facilidad de corregirlos o volver a un momento donde no tenias esos errores o a una versión anterior pudiendo modificar sin riesgo 

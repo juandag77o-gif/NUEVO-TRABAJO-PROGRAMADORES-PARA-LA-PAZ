@@ -1,0 +1,7 @@
+Prácticas básicas de seguridad digital 
+
+1.proteger contraseñas y que sean de números y caracteres y mayúsculas y minúsculas para que sea muy difícil que la descifren
+
+2.mantener los equipos actualizados y con protecciones de programas anti-virus
+
+3.mantener tu información privada (no se comparte a nadie que no seas tu ) 
