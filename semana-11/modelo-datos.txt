@@ -1,0 +1,47 @@
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- fecha_registro
+
+Propósito:
+Gestionar el acceso de los ciudadanos a la plataforma, identificar quién participa y asociarlos de forma segura a las causas que apoyan.
+
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar las causas comunitarias, proyectos sociales y propuestas ciudadanas que serán visibles en la plataforma para la comunidad.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- usuario_id
+- fecha
+
+Propósito:
+Registrar qué usuario específico apoya a qué causa para medir y hacer un seguimiento real al nivel de participación ciudadana.
+
+
+Entidad: Alerta
+
+Campos principales:
+- id
+- causa_id
+- tipo
+- contenido
+- fecha_envio
+
+Propósito:
+Almacenar las notificaciones, tareas asignadas y alertas de cada causa para poder enviarlas de forma automatizada a canales como Telegram.

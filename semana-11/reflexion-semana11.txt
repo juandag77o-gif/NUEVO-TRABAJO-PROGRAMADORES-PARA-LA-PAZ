@@ -1,0 +1,10 @@
+¿Por qué una plataforma tecnológica que promueve participación ciudadana debe tener base de datos, autenticación de usuarios y protección de información?
+ 
+Una plataforma de participación ciudadana necesita estas tres herramientas para funcionar en serio y no quedarse solo en el papel. 
+Primero, la base de datos es obligatoria porque sin ella no tendríamos dónde guardar de forma organizada las causas de los vecinos, 
+los registros de apoyos ni las alertas del proyecto. Segundo, la autenticación mediante el login es la única forma de verificar la 
+identidad de los ciudadanos, asegurando que las votaciones sean reales y evitando que cuentas falsas vengan a alterar o enredar las 
+propuestas del barrio. Finalmente, la protección de la información es el pilar más importante de todos, ya que los vecinos confían 
+en nosotros al registrarse. Si dejamos expuestas las contraseñas, los correos o los teléfonos públicamente, destruiríamos por completo
+ la confianza de la comunidad y pondríamos en riesgo su seguridad. Al juntar la base de datos, el login seguro y el cuidado de los 
+datos privados, logramos construir un espacio transparente, amigable y sumamente protegido donde la gente puede participar sin miedo.

@@ -1,0 +1,14 @@
+.Qué es el login en una aplicación.
+
+ El login es el sistema que usamos para que la aplicación verifique quién eres mediante tu usuario
+ y contraseña antes de dejarte entrar a usar la plataforma.
+
+.Por qué algunas rutas deben estar protegidas.
+
+Proteger las rutas es obligatorio porque ahí se guardan las funciones internas, 
+los registros comunitarios y las acciones que no cualquiera debería poder modificar.
+
+.Qué tipo de información no debería exponerse públicamente.
+
+Públicamente jamás se deben exponer datos como las contraseñas de los usuarios, correos, números de teléfono, 
+documentos de identidad ni las claves API de los servicios.

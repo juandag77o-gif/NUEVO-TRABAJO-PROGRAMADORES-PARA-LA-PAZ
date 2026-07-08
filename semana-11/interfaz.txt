@@ -1,0 +1,11 @@
+
+DISEÑO DE INTERFAZ - PLATAFORMA COMUNITARIA
+
+
+- Formulario para crear una causa: Una sección arriba con un formulario limpio donde el usuario ingresa un título llamativo, una descripción detallada del proyecto comunitario y la fecha de la jornada. Al presionar el botón de guardar, la información se envía directo a nuestra base de datos.
+
+- Vista de causas disponibles: Una lista central bien ordenada que funciona como un catálogo visual. En esta zona los vecinos pueden navegar libremente y leer los títulos y las descripciones de todas las propuestas sociales activas en el barrio.
+
+- Botón para apoyar una causa: Cada causa de la lista tiene su propio botón grande y fácil de presionar que dice "Apoyar Causa". Al hacer clic, el sistema registra la participación del ciudadano de manera inmediata.
+
+- Contador de apoyos: Justo al lado del botón de apoyo, aparece un número que se actualiza en tiempo real mostrando el total de personas que se han sumado. Esto motiva a la comunidad a participar activamente sin exponer nombres, correos ni datos privados de nadie.
