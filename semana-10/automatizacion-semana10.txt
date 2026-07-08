@@ -1,0 +1,16 @@
+Flujo de Automatización Simple: Notificación de Nuevos Reportes vía WhatsApp
+
+1. ¿Qué evento activa el flujo?
+El flujo se activa mediante un evento disparador (Trigger) cuando se registra un "Nuevo reporte recibido" en nuestro sistema o base de datos conectada a n8n.
+
+2. ¿Qué mensaje se enviaría a WhatsApp?
+Se enviará una alerta genérica y directa al WhatsApp del administrador del sistema usando el nodo de Twilio.
+Mensaje: "¡Alerta de Sistema! Se ha registrado un nuevo reporte en la plataforma. Por favor, ingresa al panel de control para revisar los detalles."
+
+3. ¿Qué información no debería enviarse por seguridad?
+Por políticas de seguridad, cumplimiento de protección de datos (como la Ley Habeas Data en Colombia) y para evitar filtraciones, NUNCA se debe incluir en el cuerpo del mensaje de WhatsApp la siguiente información sensible:
+- Nombres completos o apellidos de usuarios o clientes.
+- Números de documento de identidad (Cédulas).
+- Direcciones físicas, correos electrónicos o números de teléfono personales.
+- Contraseñas, claves de acceso o tokens.
+- Datos médicos, financieros o privados del reporte.

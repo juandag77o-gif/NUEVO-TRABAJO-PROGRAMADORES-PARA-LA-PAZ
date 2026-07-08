@@ -1,0 +1,34 @@
+Historia 1: Registrar reportes (Ciudadano) Criterios de Aceptación:
+
+El formulario pide obligatoriamente un título y la dirección.
+Al enviar, muestra un mensaje de éxito en la pantalla.
+
+Tareas Técnicas:
+
+Crear un formulario web básico con HTML.
+Guardar los datos en una base de datos simple
+
+Historia 2: Notificar reportes (Coordinador)
+
+Criterios de Aceptación :
+
+Llega un mensaje de texto o correo cuando hay un reporte nuevo.
+El mensaje contiene el título y la dirección del problema.
+
+Tareas Técnicas:
+
+Configurar un envío de correo automático al guardar el reporte.
+
+Historia 3: Ver reportes (Miembro del equipo)
+
+Criterios de Aceptación:
+
+Una lista muestra todos los reportes creados en una sola pantalla.
+Cada reporte tiene un botón para marcarlo como "Listo".
+
+Tareas Técnicas:
+
+Crear una página web que extraiga y liste los reportes de la base de datos.
+Agregar un botón que cambie el estado del reporte al hacer clic.
+
+

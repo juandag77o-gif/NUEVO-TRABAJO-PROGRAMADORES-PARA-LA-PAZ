@@ -1,0 +1,29 @@
+¿Qué 2 tareas del backlog harías primero?
+
+Crear un formulario web básico con HTML.
+Guardar los datos en una base de datos simple
+
+¿Por qué son las más importantes?
+ 
+Bueno vamos a mirarlo como la construcción de una casa. 
+
+El formulario HTML es la puerta de entrada para recibir los datos.
+La base de datos es la caja donde guardas esos datos de forma segura.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+
+Que la tarea esta echa o todas sus actividades estén terminadas analizadas y calificadas
+
+Escribe una definición simple de terminado con al menos 3 criterios.
+
+Funciona.
+
+Lista y calificada .
+
+Quedo registrada en Git.
+
+Cumplimiento técnico.
+
+Está guardada.
+
+Pasó la prueba
