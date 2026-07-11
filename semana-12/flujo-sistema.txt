@@ -1,0 +1,10 @@
+Pregunta 7 — Describir el flujo del sistema
+
+En el archivo flujo-sistema.txt describe en pasos simples cómo funcionaría el sistema Petición en 3 Clics.
+
+1. Un ciudadano entra a la página y escribe una nueva causa.
+2. La causa se guarda automáticamente en la base de datos.
+3. El sistema avisa por Telegram que hay una nueva petición.
+4. Otros vecinos entran y apoyan la causa con un solo clic.
+5. El sistema suma los apoyos en tiempo real en la terminal.
+6. Al terminar el tiempo, se genera el archivo PDF listo para descargar.

@@ -1,0 +1,14 @@
+En el archivo automatizacion.txt describe una automatización simple usando n8n o Telegram.
+
+Qué evento activa la automatización:
+
+Cuando el backend le avisa a n8n que un vecino creó una nueva causa en la página y n8n arranca el bot de Telegram.
+
+Qué mensaje se envía:
+
+"¡Hola vecinos! Hay una nueva causa en la plataforma. Entren para dejar su apoyo con un solo clic."
+
+Qué información no debe enviarse por seguridad:
+
+Aunque Telegram requiera un número de celular para funcionar, por protección y minimización de datos jamás se deben incluir en el mensaje público los teléfonos, cédulas, correos o contraseñas de las personas.
+

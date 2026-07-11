@@ -1,0 +1,22 @@
+Nombre de la entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito de la información:
+Guardar todas las causas, quejas y propuestas de los vecinos para que se puedan ver en la página de la comunidad.
+
+
+Nombre de la entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- usuario_id
+- fecha
+
+Propósito de la información:
+Registrar qué persona apoya cada causa para poder sumar las firmas y ver cuánta gente está participando en real.
